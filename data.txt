@@ -1,0 +1,11 @@
+name:Tom
+age:25
+city:NewYork
+career:Engineer
+hobby:Photography
+favorite_color:Blue
+pet:Dog
+work place£ºTechCorp
+
+mopjhiohhuilg jgtygiyyyfcb
+drawback£º£ºlaziness
